@@ -2,7 +2,7 @@
 
 This repo contains my solution for the Fall 2022 Data Science Challenge from Shopify
 
-Refer to the [link]( to see the code and analysis in ipynb file.
+Refer to the [link](https://github.com/rayan-roy/Shopify-Fall-2022-codechallenge/blob/main/Shopify_data_challenge_Fall_2022_solution.ipynb) to see the code and analysis in ipynb file.
 
 A summary of the problem along with the solution is first provided followed by a detailed explanation of the average order value (AOV) investigation. The SQL solution is at the bottom of the python file with detailed analysis.
 
